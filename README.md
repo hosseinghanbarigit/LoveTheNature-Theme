@@ -1,2 +1,4 @@
-# oh-my-posh-Theme
-My Customized Oh My Posh Theme for PowerShell
+# Love The Nature Theme For Oh My Posh
+Customized Theme for PowerShell
+
+

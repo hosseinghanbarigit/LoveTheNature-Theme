@@ -8,7 +8,7 @@ Customized Theme for <img alt="" src="https://gist.githubusercontent.com/Xainey/
 
 Check [This Link](https://ohmyposh.dev/docs/installation/windows) to read about oh-my-posh and how to use that.
 
-
+Theme Json File: [LoveTheNature](Theme/lovethenature.omp.json)
 
 ## 🔗Links
 

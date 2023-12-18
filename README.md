@@ -13,3 +13,6 @@ Customized Theme for <img alt="" src="https://gist.githubusercontent.com/Xainey/
 ## 🔗Links
 
 Oh My Posh | [See >>](https://ohmyposh.dev/)
+
+##  🫰🏻Thanks to
+Ali Salemi

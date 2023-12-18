@@ -13,3 +13,6 @@ Theme Json File: [LoveTheNature](Theme/lovethenature.omp.json)
 ## 🔗Links
 
 Oh My Posh | [See >>](https://ohmyposh.dev/)
+
+##  🫰🏻Thanks to
+Ali Salemi
